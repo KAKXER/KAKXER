@@ -1,4 +1,4 @@
-## Hi, I'm KAKXER🧑‍🧑‍💻
+## Hi, I'm KAKXER🧑‍💻
 
 ### Junior Developer
 
