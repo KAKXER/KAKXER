@@ -14,4 +14,4 @@ Main leader of the V.Community [discord.gg/irv] development team
 Owner and Developer of the old snow.tebex.io
 ```
 
-<p><p><img alt="Card with Rich Presence" src="https://cdn.discordapp.com/attachments/681822863967256633/1061276122781855774/discord-erfahrungen-reviews-1024x576.png" /></p>
+<img alt="DISCORD" src="https://cdn.discordapp.com/attachments/681822863967256633/1061276122781855774/discord-erfahrungen-reviews-1024x576.png" />
