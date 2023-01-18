@@ -10,7 +10,6 @@
 - ![sql](https://cdn.discordapp.com/attachments/681822863967256633/1061230435230814218/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d3030303f266c6f676f3d4d7953514c266c6f676f436f6c6f723d343437394131.svg)
 ###
 ```
-Main leader of the V.Community [discord.gg/irv] development team
 Owner and Developer of the old snow.tebex.io
 ```
 
