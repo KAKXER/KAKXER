@@ -11,7 +11,6 @@
 ###
 ```
 Owner and Developer of the FiveStar Development
-Owner and Developer of the old Snow Community
 ```
 
 <img alt="DISCORD" src="https://cdn.discordapp.com/attachments/681822863967256633/1061276122781855774/discord-erfahrungen-reviews-1024x576.png" />
