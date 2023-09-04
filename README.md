@@ -54,4 +54,6 @@
     <a href="https://youtube.com/@KAKXER">
         <code><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube" style="width: 85px; height: 25px;"></code>
     </a>
+
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
