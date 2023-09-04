@@ -13,4 +13,5 @@
 Owner and Developer of the FiveStar Development
 ```
 
-<img alt="DISCORD" src="https://cdn.discordapp.com/attachments/681822863967256633/1061276122781855774/discord-erfahrungen-reviews-1024x576.png" />
+
+<img alt="DISCORD" src="https://cdn.discordapp.com/attachments/681822863967256633/1148191431924654141/687474_1_1_1.png" />
