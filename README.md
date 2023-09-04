@@ -13,9 +13,6 @@
   <h6>My nickname is KAKXER and I currently live in Iran and working on the <a href="https://5star.codes">FiveStar Development👨‍💻</a> project
   
   more information in <a href="https://kakxer.ir">Webiste</a>.</h6>
-  <a href="[https://youtube.com/@KAKXER](https://discord.com/users/543465365057961986)">
-      <code><img src="https://dcbadge.vercel.app/api/shield/543465365057961986" alt="Discord"></code>
-  </a>
 </div>
 
 ## <img src = "https://media0.giphy.com/media/kAm4u0lhDCmXnugz6p/giphy.gif?cid=ecf05e47dga8iw859u4rm04jiyjct7njxxgzco04d9u8a9ua&ep=v1_gifs_related&rid=giphy.gif&ct=ts" width = 28px> Skills
