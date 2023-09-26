@@ -8,7 +8,7 @@
       <img alt="discord" src="https://discord.c99.nl/widget/theme-4/543465365057961986.png"/>
   </a>
 
-  <h3>Junior Developer</h3>
+  <h3>Full Stack Developer</h3>
   
   <h6>My nickname is KAKXER and I currently live in Iran and working on the <a href="https://5star.codes">FiveStar Development👨‍💻</a> project
   
